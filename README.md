@@ -12,7 +12,7 @@ The system classifies transactions into:
 - Uses transaction amount and location as input features  
 - Multi-class classification  
 - Explainable AI model using Decision Tree  
-- Implemented in Jupyter Notebook  
+- Implemented using Python and Jupyter Notebook
 
 ## Technologies
 - Python  
